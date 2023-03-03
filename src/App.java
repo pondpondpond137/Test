@@ -4,5 +4,6 @@ public class App {
         if (d.toString().equals("Fri")) {
             System.out.println("This is Friday");
         }
+        System.out.printf("Test Git\n");
     }
 }
